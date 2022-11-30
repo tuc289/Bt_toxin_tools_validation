@@ -10,6 +10,7 @@ for(i in 2:ncol(table)) {
 
 SNSPPVs <- function(input_matrix){
   input = input_matrix
+  
   for(i in 1:nrow(input)){
     if(input[i,1] == 1 & input[i,2] == 1){
       input[i,3] = "TP" 
@@ -22,11 +23,13 @@ SNSPPVs <- function(input_matrix){
     } else {input[i,3] <- "NA"}
   }
   colnames(input)[3] = "Result"
+  
   matrix <- as.data.frame(table(input[3]))
   a = matrix[4,2]
   b = matrix[2,2]
   c = matrix[1,2]
   d = matrix[3,2]
+  
   result <- data.frame(matrix(ncol=4, nrow=1))
   colnames(result) <- c("SN", "SP", "PPV", "NPV")
   result[1,1] <- a/(a+c)
