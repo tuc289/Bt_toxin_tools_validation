@@ -1,0 +1,6 @@
+FFINKGFD_05441|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+FFINKGFD_05442|Pesticidal|crystal|protein|Cry1Aa	2	204	212	409	411	559
+FFINKGFD_05225|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+FFINKGFD_06024|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+FFINKGFD_05222|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+FFINKGFD_05255|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603

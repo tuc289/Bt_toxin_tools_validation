@@ -1,0 +1,1 @@
+DLLFBKEN_05630|hypothetical|protein	79	298	305	481	494	630

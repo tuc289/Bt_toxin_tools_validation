@@ -1,0 +1,6 @@
+LNILNJCD_02469|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+LNILNJCD_02468|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+LNILNJCD_02478|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+LNILNJCD_06294|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+LNILNJCD_02475|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+LNILNJCD_02463|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603

@@ -1,0 +1,6 @@
+LNMBBDEL_01992|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+LNMBBDEL_01993|Pesticidal|crystal|protein|Cry1Aa	2	204	212	409	411	559
+LNMBBDEL_04491|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+LNMBBDEL_01986|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+LNMBBDEL_04494|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+LNMBBDEL_04392|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603

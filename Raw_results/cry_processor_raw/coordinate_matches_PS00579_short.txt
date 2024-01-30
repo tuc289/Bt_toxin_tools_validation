@@ -1,0 +1,6 @@
+KFFFPJHI_03618|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+KFFFPJHI_03619|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+KFFFPJHI_03455|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+KFFFPJHI_05299|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+KFFFPJHI_03458|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+KFFFPJHI_03624|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603

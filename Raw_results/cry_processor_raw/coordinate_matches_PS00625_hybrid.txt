@@ -1,0 +1,6 @@
+OONDIJBK_02479|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+OONDIJBK_02478|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+OONDIJBK_00005|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+OONDIJBK_03435|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+OONDIJBK_00002|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+OONDIJBK_02473|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603
