@@ -1,0 +1,8 @@
+FNOIJHJL_05366|Pesticidal|crystal|protein|Cry8Ba	31	229	237	454	464	598
+FNOIJHJL_05634|Pesticidal|crystal|protein|Cry8Ba	85	284	292	495	505	633
+FNOIJHJL_05604|Pesticidal|crystal|protein|Cry8Ba	90	290	298	501	511	644
+FNOIJHJL_05255|Pesticidal|crystal|protein|Cry4Aa	79	277	290	493	501	635
+FNOIJHJL_05038|Pesticidal|crystal|protein|Cry27Aa	99	301	309	521	522	680
+FNOIJHJL_05413|Pesticidal|crystal|protein|Cry28Aa	96	296	317	517	533	683
+FNOIJHJL_05554|Pesticidal|crystal|protein|Cry27Aa	94	299	312	484	495	633
+FNOIJHJL_05197|hypothetical|protein	83	301	316	487	489	622

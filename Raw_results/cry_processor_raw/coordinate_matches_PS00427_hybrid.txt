@@ -1,0 +1,9 @@
+NBPCEECD_04004|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+NBPCEECD_04116|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+NBPCEECD_04638|Pesticidal|crystal|protein|Cry1Ac	2	204	212	414	422	561
+NBPCEECD_04005|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+NBPCEECD_06569|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+NBPCEECD_04110|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+NBPCEECD_06566|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+NBPCEECD_04010|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603
+NBPCEECD_03997|Pesticidal|crystal|protein|Cry2Aa	62	256	261	466	489	607

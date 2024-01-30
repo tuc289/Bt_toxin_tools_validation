@@ -1,0 +1,7 @@
+FGNACHKI_06828|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+FGNACHKI_00221|Pesticidal|crystal|protein|Cry1Ac	49	251	259	461	469	608
+FGNACHKI_06829|Pesticidal|crystal|protein|Cry1Aa	2	204	212	409	411	559
+FGNACHKI_06184|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+FGNACHKI_06822|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+FGNACHKI_06187|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+FGNACHKI_06836|Pesticidal|crystal|protein|Cry2Ab	9	203	208	413	436	554

@@ -1,0 +1,4 @@
+EKMAAKJA_05904|Pesticidal|crystal|protein|Cry4Ba	83	298	306	516	526	674
+EKMAAKJA_05907|Pesticidal|crystal|protein|Cry8Aa	79	308	319	502	513	648
+EKMAAKJA_05776|Pesticidal|crystal|protein|Cry8Aa	81	307	317	511	525	650
+EKMAAKJA_06201|Pesticidal|crystal|protein|Cry4Ba	87	301	308	520	530	667

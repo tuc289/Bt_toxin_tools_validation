@@ -1,0 +1,1 @@
+IBGFAFBE_05473|hypothetical|protein	80	299	306	482	495	631

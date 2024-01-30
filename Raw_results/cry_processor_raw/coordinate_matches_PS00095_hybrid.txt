@@ -1,0 +1,9 @@
+MHMLBDOC_02999|Pesticidal|crystal|protein|Cry8Ba	31	229	237	454	464	598
+MHMLBDOC_00161|Pesticidal|crystal|protein|Cry8Ba	85	284	292	495	505	633
+MHMLBDOC_02872|Pesticidal|crystal|protein|Cry8Ba	90	290	298	501	511	644
+MHMLBDOC_03091|Pesticidal|crystal|protein|Cry4Aa	79	277	290	493	501	635
+MHMLBDOC_02861|Pesticidal|crystal|protein|Cry27Aa	99	301	309	521	522	680
+MHMLBDOC_03051|Pesticidal|crystal|protein|Cry8Ba	79	297	305	513	523	661
+MHMLBDOC_00200|Pesticidal|crystal|protein|Cry27Aa	94	299	312	484	495	633
+MHMLBDOC_00083|Pesticidal|crystal|protein|Cry27Aa	94	299	312	483	491	632
+MHMLBDOC_00056|hypothetical|protein	83	301	316	487	489	622

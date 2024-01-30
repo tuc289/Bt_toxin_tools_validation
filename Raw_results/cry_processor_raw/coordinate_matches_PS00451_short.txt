@@ -1,0 +1,4 @@
+EBJJILMC_03272|Pesticidal|crystal|protein|Cry19Aa	84	300	308	507	516	636
+EBJJILMC_05688|Pesticidal|crystal|protein|Cry4Aa	88	303	311	529	540	692
+EBJJILMC_05661|Pesticidal|crystal|protein|Cry4Ba	87	299	308	528	538	681
+EBJJILMC_05938|Pesticidal|crystal|protein|Cry4Ba	99	309	315	538	551	694

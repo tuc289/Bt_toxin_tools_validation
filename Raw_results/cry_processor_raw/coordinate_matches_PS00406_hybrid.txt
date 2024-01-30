@@ -1,0 +1,4 @@
+DBDIGCJJ_00453|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+DBDIGCJJ_00454|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+DBDIGCJJ_00459|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603
+DBDIGCJJ_00446|Pesticidal|crystal|protein|Cry2Aa	62	256	261	466	489	607

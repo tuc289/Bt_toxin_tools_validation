@@ -1,0 +1,5 @@
+KHMMKJED_06174|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+KHMMKJED_03929|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+KHMMKJED_06239|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+KHMMKJED_03932|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+KHMMKJED_05434|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603

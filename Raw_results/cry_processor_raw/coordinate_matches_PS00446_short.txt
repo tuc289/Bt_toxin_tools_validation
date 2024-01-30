@@ -1,0 +1,2 @@
+GEJEJPKB_04376|hypothetical|protein	30	317	328	548	554	696
+GEJEJPKB_04366|Pesticidal|crystal|protein|Cry13Aa	84	307	312	526	528	668

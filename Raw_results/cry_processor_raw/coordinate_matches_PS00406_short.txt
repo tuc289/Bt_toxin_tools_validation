@@ -1,0 +1,3 @@
+NJCHMPMO_04605|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+NJCHMPMO_04825|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603
+NJCHMPMO_04612|Pesticidal|crystal|protein|Cry2Aa	62	256	261	466	489	607

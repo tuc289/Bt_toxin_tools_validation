@@ -1,0 +1,5 @@
+DFGMHHJE_01078|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+DFGMHHJE_00368|Pesticidal|crystal|protein|Cry1Ac	49	251	259	460	468	607
+DFGMHHJE_01077|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+DFGMHHJE_01071|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603
+DFGMHHJE_01085|Pesticidal|crystal|protein|Cry2Aa	62	256	261	466	489	607

@@ -1,0 +1,10 @@
+OLKCGABB_02119|Pesticidal|crystal|protein|Cry4Ba	86	289	297	500	510	650
+OLKCGABB_06975|Pesticidal|crystal|protein|Cry4Ba	82	302	310	532	540	684
+OLKCGABB_06992|Pesticidal|crystal|protein|Cry4Ba	82	318	329	512	524	660
+OLKCGABB_01046|Pesticidal|crystal|protein|Cry19Aa	84	300	308	507	516	636
+OLKCGABB_02095|Pesticidal|crystal|protein|Cry4Aa	86	297	305	518	528	666
+OLKCGABB_02226|Pesticidal|crystal|protein|Cry4Ba	87	309	325	520	530	666
+OLKCGABB_02281|Pesticidal|crystal|protein|Cry4Ba	86	321	329	518	531	670
+OLKCGABB_02208|Pesticidal|crystal|protein|Cry4Aa	88	303	311	529	540	692
+OLKCGABB_02300|Pesticidal|crystal|protein|Cry4Ba	87	299	308	528	538	681
+OLKCGABB_02296|Pesticidal|crystal|protein|Cry4Ba	99	309	315	538	551	694

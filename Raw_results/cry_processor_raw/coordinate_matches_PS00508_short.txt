@@ -1,0 +1,6 @@
+GJGPADMM_02286|Pesticidal|crystal|protein|Cry1Ia	73	275	283	493	503	640
+GJGPADMM_02285|Pesticidal|crystal|protein|Cry1Aa	49	251	259	456	458	606
+GJGPADMM_02295|Pesticidal|crystal|protein|Cry1Da	48	250	258	450	460	592
+GJGPADMM_06240|Pesticidal|crystal|protein|Cry9Ea	87	293	302	505	512	650
+GJGPADMM_02292|Pesticidal|crystal|protein|Cry1Ca	48	250	261	457	467	614
+GJGPADMM_02280|Pesticidal|crystal|protein|Cry2Ab	58	252	257	462	485	603
